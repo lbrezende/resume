@@ -501,6 +501,9 @@ input:not([type=submit]):not([type=file]):focus, select:focus, textarea:focus {
 	font-family: 'Raleway', sans-serif;
 	float: left;
 }
+.header .my-name {
+	text-transform: capitalize;
+}
 .header .bottom .title a:hover {
 	opacity: .75;
 	text-decoration: none;
